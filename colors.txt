@@ -1,0 +1,5 @@
+bggreen: #40B9B2
+lightgreen: 	#7CCCBF
+white
+blue: #1D255C
+titleblue: #043340
